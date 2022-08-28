@@ -24,7 +24,6 @@ There are a multitude of free-to-earn options, as well as a very flexible subscr
 ### Our Mission
 1. Lower the barrier of entry into the Lukso ecosystem by giving users options into how they can earn Gateway Credits, as well as make those options engaging and as customizable by the user as possible.
 2. Strengthen the Lukso ecosystem through strategic partnerships with companies we believe in, and incentivizing our users to interact with these partners.
-3. Give the user as much control over how they earn credits, and what they can do with them as possible.
 
 ### Core Existing Functionalities
 The following describe core functionalities performed by Gateway Relay at the time of writing:
