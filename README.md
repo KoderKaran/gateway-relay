@@ -47,7 +47,7 @@ Below is a list that describes key items on the roadmap for Gateway Relay:
 	* Offers/Surveys/Videos that center around the partner in order to incentivize users to engage with the partner.
 	* Set periods of time where users who interact with the partner get heavily discounted or free transactions.
 	* Bulk discounts on Gateway Credits.
-	To learn more about the future state of the Partnership Program, please go [here](https://karan-khullar.gitbook.io/gateway/rationale).
+To learn more about the future state of the Partnership Program, please go [here](https://karan-khullar.gitbook.io/gateway/rationale).
 2. **Referral/Affiliate Programs:** Referal and affiliate programs would drastically increase the amount of people entering the Lukso ecosystem. Given that fact, Gateway Relay will eventually establish a system that incentivizes users to invite others on to the platform. This can either be in the form of the referring user gaining a portion of whatever a referral earns, or a flat amount of credits given out for every referral who joins the platform.
 3. **Ability to Send Credits to Others:** The ability to send credits to other users is pivitol in order for each user to have full control over what they can do with their credits. If done correctly, this mechanic can also lead to the growth of the number of people in the Lukso ecosystem, as well as the number of connections formed in the community. One way this can be utilized to not only make the new user experience better, it can give use to any excess credits a user may have lying around that wouldn't have been used anyway.
 
