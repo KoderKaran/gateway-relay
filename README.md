@@ -6,7 +6,7 @@
 |**Project Name** |**Gateway Relay Service** |
 | **Technical Team** | **[Karan Khullar](https://github.com/KoderKaran) & [Todor Penchev](https://github.com/toshko3331)** |
 | **Artist** | **[Halli Rosario](https://linktr.ee/mellowed.eyes)** |
-| **Email** | **karan.khullar@lyxgateway.app** |
+| **Email** | **(karan.khullar@lyxgateway.app)[mailto:karan.khullar@lyxgateway.app]** |
 | **App** | **[Gateway Relay](https://www.lyxgateway.app/dashboard)** |
 | **Frontend Source** | **[Gateway Relay Frontend](https://github.com/KoderKaran/gateway-relay-web-frontend)** |
 | **API Source** | **[Gateway Relay API](https://github.com/KoderKaran/gateway-relay-api-layer)** |
