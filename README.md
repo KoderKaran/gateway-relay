@@ -41,7 +41,7 @@ The following describe core functionalities performed by Gateway Relay at the ti
 	* **/api/relay/quota:** By making a post request to this endpoint, the user can get information regarding their total credit amount, as well as how many credits they will recieve as a subscription payout, and when that next payout is.
 	* **/api/relay/transactionStatus:** By making a post request to this endpoint, the user will be able to see the status of any transaction sent through the Gateway Relay API. They will also be able to see how many credits were used by this transaction, as well as what their credits were before and after the transaction.
 
-### Core Roadmap Items
+### Key Roadmap Items
 ___
 ⚠️ **_IMPORTANT NOTE_**: ***For the full list, as well as in depth explanations for each item on the roadmap, please visit the roadmap section in the [documentation](https://karan-khullar.gitbook.io/gateway/introduction/about-gateway-relay-service).***
 ___
@@ -60,5 +60,10 @@ Below is a list that describes key items on the roadmap for Gateway Relay:
 3. **Ability to Send Credits to Others:** The ability to send credits to other users is pivitol in order for each user to have full control over what they can do with their credits. If done correctly, this mechanic can also lead to the growth of the number of people in the Lukso ecosystem, as well as the number of connections formed in the community. One way this can be utilized to not only make the new user experience better, it can give use to any excess credits a user may have lying around that wouldn't have been used anyway.
 
 **To learn more about sending credits to others, please go [here](https://karan-khullar.gitbook.io/gateway/roadmap/credit-sources/sending-credits-to-others).**
+
+### High Level Architecture
+![High Level Architecture Diagram](assets/architecture.png)
+
+**For a more in depth explanation into the architecture, please go [here](https://karan-khullar.gitbook.io/gateway/architecture/gateway-relay-architecture).**
 
 
