@@ -7,10 +7,11 @@
 | **Technical Team** | **[Karan Khullar](https://github.com/KoderKaran) & [Todor Penchev](https://github.com/toshko3331)** |
 | **Artist** | **[Halli Rosario](https://linktr.ee/mellowed.eyes)** |
 | **Email** | **karan.khullar@lyxgateway.app** |
-| **App** | **[Gateway Relay](https://www.lyxgateway.app/dashboard)** |
+| **App Link** | **[Gateway Relay](https://www.lyxgateway.app/dashboard)** |
 | **Frontend Source** | **[Gateway Relay Frontend](https://github.com/KoderKaran/gateway-relay-web-frontend)** |
 | **API Source** | **[Gateway Relay API](https://github.com/KoderKaran/gateway-relay-api-layer)** |
 | **Documentation** | **[Gateway Relay Documentation](https://karan-khullar.gitbook.io/gateway/)** |
+| **Video Demo** | **[Gateway Relay Video Demo](https://karan-khullar.gitbook.io/gateway/guides/user-guide/gateway-relay-demo)** |
 
 ___
 ###### ⚠️ **_IMPORTANT NOTE_**: The overview and architecture below are a summary of what can be found in the documentation. For more in depth information, please visit the [documentation](https://karan-khullar.gitbook.io/gateway/).
