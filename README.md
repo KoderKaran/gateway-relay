@@ -12,6 +12,7 @@
 | **API Source** | **[Gateway Relay API](https://github.com/KoderKaran/gateway-relay-api-layer)** |
 | **Documentation** | **[Gateway Relay Documentation](https://karan-khullar.gitbook.io/gateway/)** |
 | **Video Demo** | **[Gateway Relay Video Demo](https://karan-khullar.gitbook.io/gateway/guides/user-guide/gateway-relay-demo)** |
+| **Backup Video Demo Link** | **[Backup Gateway Relay Video Demo](https://www.youtube.com/watch?v=7-XYlwvSs_s&ab_channel=TodorPenchev)** |
 
 ___
 ###### ⚠️ **_IMPORTANT NOTE_**: The overview and architecture below are a summary of what can be found in the documentation. For more in depth information, please visit the [documentation](https://karan-khullar.gitbook.io/gateway/).
