@@ -44,7 +44,7 @@ The following describe core functionalities performed by Gateway Relay at the ti
 
 ### Key Roadmap Items
 ___
-⚠️ **_IMPORTANT NOTE_**: ***For the full list, as well as in depth explanations for each item on the roadmap, please visit the roadmap section in the [documentation](https://karan-khullar.gitbook.io/gateway/introduction/about-gateway-relay-service).***
+⚠️ **_IMPORTANT NOTE_**: ***For the full list, as well as in depth explanations for each item on the roadmap, please visit the roadmap section in the [documentation](https://karan-khullar.gitbook.io/gateway/roadmap/roadmap).***
 ___
 Below is a list that describes key items on the roadmap for Gateway Relay:
 1. **Partnership Program:** A major priority for Gateway Relay is to establish partnerships, in order to bolster user engagement with the partners, and in turn creating a stronger, and more intertwined ecosystem. To meet this goal, Gateway Relay will have in place benefits for partners. These benefits may include the following: 
@@ -54,9 +54,9 @@ Below is a list that describes key items on the roadmap for Gateway Relay:
 
 **For a full comprehensive guide on the Partner Program, please go [here](https://karan-khullar.gitbook.io/gateway/guides/partner-program-guide).**
 
-2. **Referral/Affiliate Programs:** Referal and affiliate programs would drastically increase the amount of people entering the Lukso ecosystem. Given that fact, Gateway Relay will eventually establish a system that incentivizes users to invite others on to the platform. This can either be in the form of the referring user gaining a portion of whatever a referral earns, or a flat amount of credits given out for every referral who joins the platform.
+2. **UP-Less Temporary User:** A mechanism for users who are so new to the Lukso ecosystem, that they don't have a Universal profile. Instead of overwhelming them by having them install the UP extension and generating them a UP, we would have infrastructure in place to allow a gradual build up to them getting a UP. This would involve them "soft authenticating", and instead of using their UP address, they would use a unique identifier generated for them. Using this unique identifier, users would be registered as temporary users, and can login to see their dashboard, earn credits and earn experience for their permanent badge. 
 
-**To learn more about the referral/affiliate program, please go [here](https://karan-khullar.gitbook.io/gateway/roadmap/credit-sources/referral-affiliate-program).**
+**To learn more about Temporary Users, please go [here](https://karan-khullar.gitbook.io/gateway/roadmap/roadmap/very-high-priority-items/up-less-temporary-user).**
 
 3. **Ability to Send Credits to Others:** The ability to send credits to other users is pivitol in order for each user to have full control over what they can do with their credits. If done correctly, this mechanic can also lead to the growth of the number of people in the Lukso ecosystem, as well as the number of connections formed in the community. One way this can be utilized to not only make the new user experience better, it can give use to any excess credits a user may have lying around that wouldn't have been used anyway.
 
